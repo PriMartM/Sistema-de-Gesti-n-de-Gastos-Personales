@@ -4,6 +4,8 @@ Este repositorio contiene el código fuente del Trabajo Práctico Integrador (TP
 
 El proyecto es una aplicación de consola desarrollada en C para la gestión de finanzas personales o familiares, permitiendo un control detallado de ingresos, gastos, pagos y proyecciones.
 
+![Imágenes De ilustracion](imagendeilustracion.png)
+
 ## 📜 Descripción del Proyecto
 
 El objetivo de este software es permitir a un grupo de personas (como una familia) registrar y organizar sus ingresos y gastos mensuales. El sistema permite tener un control claro de la economía, identificar en qué se destina el dinero, quién realiza cada gasto y calcular balances para tomar mejores decisiones financieras.
